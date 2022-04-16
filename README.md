@@ -41,6 +41,6 @@
 4. 如需使用此EFI，请***务必重新三码摇号***（适合OpenCore v0.79的OCC编辑器已放入本仓库，[图文教程](https://blog.csdn.net/xuanxue11/article/details/107873835)）
 
 ### 效果图
-![关于本机.png](# "关于本机")
+![关于本机.png](https://github.com/demon3434/Hackintosh-EFI-Dell3060MFF/blob/main/OpenCore%20v0.7.9%20%26%20macOS%20Big%20Sur%2011.6.5%20(20G527)/1.%E5%85%B3%E4%BA%8E%E6%9C%AC%E6%9C%BA.png "关于本机")
 ![蓝牙.png](https://github.com/demon3434/Hackintosh-EFI-Dell3060MFF/blob/main/OpenCore%20v0.7.9%20%26%20macOS%20Big%20Sur%2011.6.5%20(20G527)/2.%E8%93%9D%E7%89%99.png "蓝牙")
-![Hackintool系统信息.png](# "Hackintool系统信息")
+![Hackintool系统信息.png](https://github.com/demon3434/Hackintosh-EFI-Dell3060MFF/blob/main/OpenCore%20v0.7.9%20%26%20macOS%20Big%20Sur%2011.6.5%20(20G527)/3.Hackintool%E7%B3%BB%E7%BB%9F%E4%BF%A1%E6%81%AF.png "Hackintool系统信息")
