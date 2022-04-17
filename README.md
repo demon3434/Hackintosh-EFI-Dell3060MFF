@@ -13,7 +13,7 @@
 | 主机 | Dell OptiPlex 3060 MFF |
 | CPU | Intel Core i5 8600T |
 | 内存 | 杂牌 DDR4 2666 8G*2 |
-| 硬盘 | 铠侠TC10，Sata 480GB |
+| 硬盘 | 铠侠TC10 Sata 480GB |
 | 显卡 | Intel UHD Graphics 630 |
 | 显示器 | DIY便携屏，4K 60Hz |
 | 声卡 | ALC255 |
